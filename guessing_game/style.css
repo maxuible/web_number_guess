@@ -26,6 +26,20 @@
     background-color: green;
 }
 
+#rectangle1 {
+    margin-left: 10%;
+    width: 0%;
+    height: 2em;
+    background-color: red;
+}
+
+#rectangle2 {
+    width: 0%;
+    height: 2em;
+    margin-right: 10%;
+    background-color: red;
+}
+
 #btnRestart {
     margin: 0 auto;
     display: block;
